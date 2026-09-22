@@ -1669,7 +1669,7 @@ function Footer({ navigate }) {
         <span>
           Developed by{" "}
           <strong className="developer-names">
-            PRINCE CHAUHAN 
+            PRINCE CHAUHAN & Sushant Kumar Ravi
           </strong>
         </span>
       </div>
