@@ -1,0 +1,59 @@
+{
+  "gigs": [
+    {
+      "id": 1,
+      "title": "Short-form Video Editing",
+      "category": "Video Editing",
+      "rate": 1500,
+      "description": "I will edit engaging reels, shorts and social media videos with clean cuts, captions and transitions.",
+      "creatorName": "Prince Chauhan",
+      "createdAt": "2026-09-22T10:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "title": "Modern Logo & Brand Identity",
+      "category": "Graphic Design",
+      "rate": 2500,
+      "description": "I will create a modern logo and visual identity designed to make your brand memorable.",
+      "creatorName": "Sushant Kumar Ravi",
+      "createdAt": "2026-09-22T09:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Landing Page Development",
+      "category": "Web Development",
+      "rate": 4000,
+      "description": "I will build a responsive and modern landing page for your product, startup or personal brand.",
+      "creatorName": "Prince Chauhan",
+      "createdAt": "2026-09-21T12:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "title": "UI/UX Design for Web Apps",
+      "category": "UI/UX Design",
+      "rate": 3000,
+      "description": "I will design clean, user-friendly interfaces and flows for websites and web applications.",
+      "creatorName": "Sushant Kumar Ravi",
+      "createdAt": "2026-09-20T14:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "title": "SEO Blog & Website Content",
+      "category": "Content Writing",
+      "rate": 1200,
+      "description": "I will write clear, engaging and SEO-friendly content for blogs, websites and product pages.",
+      "creatorName": "Prince Chauhan",
+      "createdAt": "2026-09-19T11:00:00.000Z"
+    },
+    {
+      "id": 6,
+      "title": "Product Photography",
+      "category": "Photography",
+      "rate": 3500,
+      "description": "I will create polished product photos suitable for websites, marketplaces and social media.",
+      "creatorName": "Sushant Kumar Ravi",
+      "createdAt": "2026-09-18T09:00:00.000Z"
+    }
+  ],
+  "bookings": []
+}
